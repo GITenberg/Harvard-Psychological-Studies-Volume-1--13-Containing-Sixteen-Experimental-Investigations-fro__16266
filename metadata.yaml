@@ -1,0 +1,44 @@
+_repo: Harvard-Psychological-Studies-Volume-1--13-Containing-Sixteen-Experimental-Investigations-fro__16266
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Münsterberg, Hugo
+    aliases:
+    - Hugo Münsterberg
+    - Munsterberg, Hugo
+    birthdate: 1863
+    deathdate: 1916
+    gutenberg_agent_id: '5888'
+    url: http://www.gutenberg.org/2009/agents/5888
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_M%C3%BCnsterberg
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2005-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology, Experimental'
+- !lcc 'BF'
+tableOfContents: 'Preface, H. Münsterberg -- Studies in perception: Eye-movement
+  and central anæsthesia, E.B. Holt. Tactual illusions, C.H. Rieber, Tactual time
+  estimation, K. Dunlap. Perception of number through touch, J.F. Messenger. The subjective
+  horizon, R. MacDougall. The illusion of resolution-stripes on the color-wheel, E.B.
+  Holt -- Studies in memory: Recall of words, objects and movements, H.A. Peterson.
+  Mutual inhibition of memory images, F. Meakin. Control of the memory image, C.S.
+  Moore -- Studies in æsthetic processes: The structure of simple rhythm forms, R.
+  MacDougall. Rhythm and rhyme, R.H. Stetson. Studies in symmetry, E.D. Puffer. The
+  æsthetics of unequal division, R.P. Angier -- Studies in animal psychology: Habit
+  formation in the crawfish, Camburus affinis, R.M. Yerkes and G.E. Huggins. The instincts,
+  habits and reactions of the frog, R.M. Yerkes -- Studies in psychological theory:
+  The position of psychology in the system of knowledge, H. Münsterberg.'
+title: "Harvard Psychological Studies, Volume 1\r\nContaining Sixteen Experimental\
+  \ Investigations from the Harvard Psychological Laboratory."
+url: http://www.gutenberg.org/ebooks/16266
